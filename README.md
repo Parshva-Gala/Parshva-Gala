@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Parshva-Gala
-- 👀 I’m interested in learning the basics of programming and design.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning the basics of programming and web designing for now
+- 🌱 I’m currently learning Java, python and web designing.
 - 📫 You can contact me through email : parshva25gala@gmail.com
 
 <!---
